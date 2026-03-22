@@ -1,0 +1,794 @@
+[
+    {
+        "id": 1,
+        "title": "ZenFit Pro",
+        "companyName": "HealthFlow",
+        "image": "https://picsum.photos/id/1/1000/600",
+        "description": "Premium fitness tracking with AI coaching.",
+        "size": 42.5,
+        "reviews": 15200,
+        "ratingAvg": 4.8,
+        "downloads": 500000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 100
+            },
+            {
+                "name": "2 star",
+                "count": 200
+            },
+            {
+                "name": "3 star",
+                "count": 900
+            },
+            {
+                "name": "4 star",
+                "count": 4000
+            },
+            {
+                "name": "5 star",
+                "count": 10000
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "PixelEdit HD",
+        "companyName": "CreativeLabs",
+        "image": "https://picsum.photos/id/2/1000/600",
+        "description": "Advanced photo editing with AI filters.",
+        "size": 115.0,
+        "reviews": 8400,
+        "ratingAvg": 4.5,
+        "downloads": 1200000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400
+            },
+            {
+                "name": "2 star",
+                "count": 500
+            },
+            {
+                "name": "3 star",
+                "count": 1500
+            },
+            {
+                "name": "4 star",
+                "count": 2000
+            },
+            {
+                "name": "5 star",
+                "count": 4000
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "FinanceWise",
+        "companyName": "BankFlow",
+        "image": "https://picsum.photos/id/3/1000/600",
+        "description": "Manage savings and crypto securely.",
+        "size": 28.3,
+        "reviews": 5600,
+        "ratingAvg": 4.2,
+        "downloads": 250000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600
+            },
+            {
+                "name": "2 star",
+                "count": 400
+            },
+            {
+                "name": "3 star",
+                "count": 600
+            },
+            {
+                "name": "4 star",
+                "count": 1000
+            },
+            {
+                "name": "5 star",
+                "count": 3000
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "SkyScan",
+        "companyName": "AeroTech",
+        "image": "https://picsum.photos/id/10/1000/600",
+        "description": "Hyper-local weather and live radar.",
+        "size": 15.6,
+        "reviews": 3200,
+        "ratingAvg": 4.7,
+        "downloads": 1000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 50
+            },
+            {
+                "name": "2 star",
+                "count": 100
+            },
+            {
+                "name": "3 star",
+                "count": 250
+            },
+            {
+                "name": "4 star",
+                "count": 800
+            },
+            {
+                "name": "5 star",
+                "count": 2000
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Nomad Maps",
+        "companyName": "GeoNav",
+        "image": "https://picsum.photos/id/13/1000/600",
+        "description": "Offline navigation for global travelers.",
+        "size": 195.0,
+        "reviews": 4100,
+        "ratingAvg": 4.4,
+        "downloads": 85000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 100
+            },
+            {
+                "name": "2 star",
+                "count": 300
+            },
+            {
+                "name": "3 star",
+                "count": 700
+            },
+            {
+                "name": "4 star",
+                "count": 1000
+            },
+            {
+                "name": "5 star",
+                "count": 2000
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Culina Recipes",
+        "companyName": "ChefMaster",
+        "image": "https://picsum.photos/id/20/1000/600",
+        "description": "Gourmet meal plans and video guides.",
+        "size": 35.0,
+        "reviews": 1200,
+        "ratingAvg": 4.9,
+        "downloads": 50000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 50
+            },
+            {
+                "name": "4 star",
+                "count": 120
+            },
+            {
+                "name": "5 star",
+                "count": 1000
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "CodeLab IDE",
+        "companyName": "DevTools",
+        "image": "https://picsum.photos/id/24/1000/600",
+        "description": "Mobile IDE for Python and JavaScript.",
+        "size": 65.2,
+        "reviews": 9800,
+        "ratingAvg": 4.6,
+        "downloads": 300000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 200
+            },
+            {
+                "name": "2 star",
+                "count": 400
+            },
+            {
+                "name": "3 star",
+                "count": 1200
+            },
+            {
+                "name": "4 star",
+                "count": 3000
+            },
+            {
+                "name": "5 star",
+                "count": 5000
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "NoteSphere",
+        "companyName": "CloudSync",
+        "image": "https://picsum.photos/id/26/1000/600",
+        "description": "Smart cross-device note taking.",
+        "size": 22.1,
+        "reviews": 15000,
+        "ratingAvg": 4.3,
+        "downloads": 950000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1000
+            },
+            {
+                "name": "2 star",
+                "count": 1500
+            },
+            {
+                "name": "3 star",
+                "count": 2500
+            },
+            {
+                "name": "4 star",
+                "count": 3000
+            },
+            {
+                "name": "5 star",
+                "count": 7000
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "SoundWave",
+        "companyName": "AudioLab",
+        "image": "https://picsum.photos/id/29/1000/600",
+        "description": "Pro mixer and field recorder.",
+        "size": 48.9,
+        "reviews": 7600,
+        "ratingAvg": 4.7,
+        "downloads": 150000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 100
+            },
+            {
+                "name": "2 star",
+                "count": 200
+            },
+            {
+                "name": "3 star",
+                "count": 300
+            },
+            {
+                "name": "4 star",
+                "count": 2000
+            },
+            {
+                "name": "5 star",
+                "count": 5000
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "TaskMaster",
+        "companyName": "FocusApps",
+        "image": "https://picsum.photos/id/36/1000/600",
+        "description": "Intelligent daily task scheduling.",
+        "size": 18.0,
+        "reviews": 22000,
+        "ratingAvg": 4.5,
+        "downloads": 5000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 500
+            },
+            {
+                "name": "2 star",
+                "count": 1500
+            },
+            {
+                "name": "3 star",
+                "count": 5000
+            },
+            {
+                "name": "4 star",
+                "count": 5000
+            },
+            {
+                "name": "5 star",
+                "count": 10000
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "PlantCare",
+        "companyName": "NatureDev",
+        "image": "https://picsum.photos/id/42/1000/600",
+        "description": "Identify plants and set reminders.",
+        "size": 31.4,
+        "reviews": 3200,
+        "ratingAvg": 4.8,
+        "downloads": 120000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "3 star",
+                "count": 150
+            },
+            {
+                "name": "4 star",
+                "count": 1000
+            },
+            {
+                "name": "5 star",
+                "count": 2000
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "YogaFlow",
+        "companyName": "ZenStudio",
+        "image": "https://picsum.photos/id/48/1000/600",
+        "description": "Guided daily yoga sessions.",
+        "size": 95.0,
+        "reviews": 11000,
+        "ratingAvg": 4.9,
+        "downloads": 750000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 50
+            },
+            {
+                "name": "2 star",
+                "count": 50
+            },
+            {
+                "name": "3 star",
+                "count": 900
+            },
+            {
+                "name": "4 star",
+                "count": 2000
+            },
+            {
+                "name": "5 star",
+                "count": 8000
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "GameSync",
+        "companyName": "PlayBase",
+        "image": "https://picsum.photos/id/54/1000/600",
+        "description": "The ultimate social hub for gamers.",
+        "size": 55.6,
+        "reviews": 45000,
+        "ratingAvg": 4.4,
+        "downloads": 10000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 5000
+            },
+            {
+                "name": "2 star",
+                "count": 5000
+            },
+            {
+                "name": "3 star",
+                "count": 10000
+            },
+            {
+                "name": "4 star",
+                "count": 5000
+            },
+            {
+                "name": "5 star",
+                "count": 20000
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "title": "MarketTrack",
+        "companyName": "TradeHub",
+        "image": "https://picsum.photos/id/60/1000/600",
+        "description": "Real-time stock and crypto alerts.",
+        "size": 12.8,
+        "reviews": 9300,
+        "ratingAvg": 4.1,
+        "downloads": 400000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1000
+            },
+            {
+                "name": "2 star",
+                "count": 800
+            },
+            {
+                "name": "3 star",
+                "count": 1500
+            },
+            {
+                "name": "4 star",
+                "count": 2000
+            },
+            {
+                "name": "5 star",
+                "count": 4000
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "title": "AstroGaze",
+        "companyName": "SpaceView",
+        "image": "https://picsum.photos/id/75/1000/600",
+        "description": "AR constellations and planet guide.",
+        "size": 140.0,
+        "reviews": 6100,
+        "ratingAvg": 4.7,
+        "downloads": 320000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 100
+            },
+            {
+                "name": "2 star",
+                "count": 200
+            },
+            {
+                "name": "3 star",
+                "count": 800
+            },
+            {
+                "name": "4 star",
+                "count": 1000
+            },
+            {
+                "name": "5 star",
+                "count": 4000
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "PhotoSafe",
+        "companyName": "VaultIT",
+        "image": "https://picsum.photos/id/80/1000/600",
+        "description": "Secure encrypted cloud for photos.",
+        "size": 25.4,
+        "reviews": 18000,
+        "ratingAvg": 4.6,
+        "downloads": 2000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 500
+            },
+            {
+                "name": "2 star",
+                "count": 1000
+            },
+            {
+                "name": "3 star",
+                "count": 2500
+            },
+            {
+                "name": "4 star",
+                "count": 4000
+            },
+            {
+                "name": "5 star",
+                "count": 10000
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "title": "MindPal",
+        "companyName": "PeaceMind",
+        "image": "https://picsum.photos/id/91/1000/600",
+        "description": "Daily guided meditation sessions.",
+        "size": 42.0,
+        "reviews": 12500,
+        "ratingAvg": 4.9,
+        "downloads": 1000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 100
+            },
+            {
+                "name": "2 star",
+                "count": 100
+            },
+            {
+                "name": "3 star",
+                "count": 300
+            },
+            {
+                "name": "4 star",
+                "count": 2000
+            },
+            {
+                "name": "5 star",
+                "count": 10000
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "title": "BudgetPro",
+        "companyName": "WealthFlow",
+        "image": "https://picsum.photos/id/119/1000/600",
+        "description": "AI-powered expense tracking.",
+        "size": 19.9,
+        "reviews": 5400,
+        "ratingAvg": 4.0,
+        "downloads": 150000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 800
+            },
+            {
+                "name": "2 star",
+                "count": 600
+            },
+            {
+                "name": "3 star",
+                "count": 1000
+            },
+            {
+                "name": "4 star",
+                "count": 1000
+            },
+            {
+                "name": "5 star",
+                "count": 2000
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "title": "RunTracker",
+        "companyName": "SprintLabs",
+        "image": "https://picsum.photos/id/146/1000/600",
+        "description": "GPS run tracking and social racing.",
+        "size": 38.4,
+        "reviews": 14200,
+        "ratingAvg": 4.5,
+        "downloads": 850000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 200
+            },
+            {
+                "name": "2 star",
+                "count": 500
+            },
+            {
+                "name": "3 star",
+                "count": 2500
+            },
+            {
+                "name": "4 star",
+                "count": 4000
+            },
+            {
+                "name": "5 star",
+                "count": 7000
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "title": "HomeDesign",
+        "companyName": "Archiviz",
+        "image": "https://picsum.photos/id/160/1000/600",
+        "description": "3D home renovation and planning.",
+        "size": 250.0,
+        "reviews": 3200,
+        "ratingAvg": 4.3,
+        "downloads": 100000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 200
+            },
+            {
+                "name": "2 star",
+                "count": 300
+            },
+            {
+                "name": "3 star",
+                "count": 500
+            },
+            {
+                "name": "4 star",
+                "count": 700
+            },
+            {
+                "name": "5 star",
+                "count": 1500
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "title": "SkyCast Weather",
+        "companyName": "MeteoGroup",
+        "image": "https://picsum.photos/id/180/1000/600",
+        "description": "Global weather satellite imagery.",
+        "size": 22.4,
+        "reviews": 8900,
+        "ratingAvg": 4.6,
+        "downloads": 500000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 150
+            },
+            {
+                "name": "2 star",
+                "count": 250
+            },
+            {
+                "name": "3 star",
+                "count": 500
+            },
+            {
+                "name": "4 star",
+                "count": 3000
+            },
+            {
+                "name": "5 star",
+                "count": 5000
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "title": "RecipeBox",
+        "companyName": "KitchenPal",
+        "image": "https://picsum.photos/id/225/1000/600",
+        "description": "Organize and share your family recipes.",
+        "size": 18.7,
+        "reviews": 4500,
+        "ratingAvg": 4.8,
+        "downloads": 200000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 50
+            },
+            {
+                "name": "2 star",
+                "count": 50
+            },
+            {
+                "name": "3 star",
+                "count": 400
+            },
+            {
+                "name": "4 star",
+                "count": 1000
+            },
+            {
+                "name": "5 star",
+                "count": 3000
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "title": "LanguageLift",
+        "companyName": "SpeakEasy",
+        "image": "https://picsum.photos/id/237/1000/600",
+        "description": "Learn 30+ languages with native speakers.",
+        "size": 75.0,
+        "reviews": 12000,
+        "ratingAvg": 4.7,
+        "downloads": 1500000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300
+            },
+            {
+                "name": "2 star",
+                "count": 400
+            },
+            {
+                "name": "3 star",
+                "count": 1300
+            },
+            {
+                "name": "4 star",
+                "count": 3000
+            },
+            {
+                "name": "5 star",
+                "count": 7000
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "title": "VibeMusic",
+        "companyName": "SonicCloud",
+        "image": "https://picsum.photos/id/250/1000/600",
+        "description": "Lossless audio streaming and podcasts.",
+        "size": 44.2,
+        "reviews": 6500,
+        "ratingAvg": 4.4,
+        "downloads": 300000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400
+            },
+            {
+                "name": "2 star",
+                "count": 300
+            },
+            {
+                "name": "3 star",
+                "count": 800
+            },
+            {
+                "name": "4 star",
+                "count": 2000
+            },
+            {
+                "name": "5 star",
+                "count": 3000
+            }
+        ]
+    }
+]
