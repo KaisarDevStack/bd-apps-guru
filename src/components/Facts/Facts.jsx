@@ -16,7 +16,7 @@ const Facts = () => {
             factsText: "46% more than last month"
         },
         {
-            id: 1,
+            id: 3,
             factsTitle: "Active Apps",
             factsHead: "132+",
             factsText: "31 more will Launch"

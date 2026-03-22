@@ -6,7 +6,7 @@ import { FaGithub } from 'react-icons/fa';
 const Navbar = () => {
     const links = <>
         <NavLink className="mr-2">Home</NavLink>
-        <NavLink className="mr-2">Apps</NavLink>
+        <NavLink className="mr-2" to='/apps'>Apps</NavLink>
         <NavLink className="mr-2">Installation</NavLink>
         <Link className='flex bg-linear-to-r from-[#632EE3] to-[#9F62F2] px-4 py-1 rounded-sm text-white items-center gap-1 visible md:invisibile lg:invisible'><FaGithub />
             <span>Contribute</span></Link>

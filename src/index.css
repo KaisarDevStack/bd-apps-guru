@@ -4,7 +4,8 @@
 
 body {
   font-family: "Inter", sans-serif;
-  color: #001931
+  color: #001931;
+  margin: 0 auto;
 }
 
 /* Target the "Get it on / Download on the" text (Subtitle) */
