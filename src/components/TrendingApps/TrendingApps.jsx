@@ -13,7 +13,7 @@ const TrendingApps = ({ AppsData }) => {
                 {AppsData.map(app => <Apps key={app.id} app={app}></Apps>).slice(01, 09)}
             </div>
             <div className='flex justify-center items-center py-10'>
-                <Link className='btn btn-md bg-linear-to-b from-[#632EE3] to-[#9F62F2] text-white font-sm font-normal'>Show All</Link>
+                <Link className='btn btn-md bg-linear-to-b from-[#632EE3] to-[#9F62F2] text-white font-sm font-normal' to='/apps'>Show All</Link>
             </div>
 
 

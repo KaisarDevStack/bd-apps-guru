@@ -6,7 +6,6 @@ const Apps = ({ app }) => {
     const { id, title, companyName, image, description, size, reviews, ratingAvg, downloads, ratings } = app
 
     return (
-
         <div>
             <figure>
                 <img src={image} className='rounded-sm' alt="" />
