@@ -4,31 +4,31 @@
         "title": "ZenFit Pro",
         "companyName": "HealthFlow",
         "image": "https://picsum.photos/id/1/1000/600",
-        "description": "Premium fitness tracking with AI coaching and heart rate monitoring.",
+        "description": "ZenFit Pro is a revolutionary health platform designed to bring professional-grade wellness coaching directly to your smartphone. By combining advanced biometric tracking with artificial intelligence, it creates a personalized roadmap for your fitness journey.\n\nThe app seamlessly monitors your heart rate variability, sleep quality, and daily caloric burn to provide real-time adjustments to your workout schedule. This ensures you are always training at the optimal intensity for your current physical state.\n\nConnect with a global community of athletes to share progress and stay motivated through weekly challenges. With ZenFit Pro, achieving a balanced and healthy lifestyle has never been more accessible or scientifically driven.",
         "size": 42.5,
-        "reviews": 15200,
+        "reviews": "54K",
         "ratingAvg": 4.8,
-        "downloads": 500000,
+        "downloads": "10M",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 100
+                "count": 12
             },
             {
                 "name": "2 star",
-                "count": 200
+                "count": 25
             },
             {
                 "name": "3 star",
-                "count": 900
+                "count": 42
             },
             {
                 "name": "4 star",
-                "count": 4000
+                "count": 88
             },
             {
                 "name": "5 star",
-                "count": 10000
+                "count": 96
             }
         ]
     },
@@ -37,31 +37,31 @@
         "title": "PixelEdit HD",
         "companyName": "CreativeLabs",
         "image": "https://picsum.photos/id/2/1000/600",
-        "description": "Advanced photo editing with AI filters and 4K export support.",
+        "description": "PixelEdit HD is the ultimate mobile creative suite for photographers who refuse to compromise on quality. Our proprietary processing engine allows for lightning-fast manipulation of high-resolution RAW files without any loss in image fidelity.\n\nTake advantage of sophisticated AI-powered filters that intelligently analyze your photos to enhance lighting, texture, and color balance. The intuitive multi-layer interface makes professional tasks like frequency separation and complex masking available to everyone.\n\nExport your final masterpieces in stunning 4K resolution directly to your preferred cloud storage or social media platforms. Join thousands of digital artists who trust PixelEdit HD to turn their mobile captures into gallery-worthy art.",
         "size": 115.0,
-        "reviews": 8400,
+        "reviews": "100K",
         "ratingAvg": 4.5,
-        "downloads": 1200000,
+        "downloads": "50M",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 400
+                "count": 31
             },
             {
                 "name": "2 star",
-                "count": 500
+                "count": 18
             },
             {
                 "name": "3 star",
-                "count": 1500
+                "count": 55
             },
             {
                 "name": "4 star",
-                "count": 2000
+                "count": 72
             },
             {
                 "name": "5 star",
-                "count": 4000
+                "count": 89
             }
         ]
     },
@@ -70,31 +70,31 @@
         "title": "FinanceWise",
         "companyName": "BankFlow",
         "image": "https://picsum.photos/id/3/1000/600",
-        "description": "Manage savings, investments, and crypto assets securely.",
+        "description": "FinanceWise offers a comprehensive approach to modern wealth management, allowing you to oversee your entire financial life from a single dashboard. It integrates traditional banking, stock market portfolios, and emerging digital assets into one secure space.\n\nOur intelligent budgeting engine automatically categorizes your spending habits and identifies potential areas where you can save more each month. It provides predictive analytics to help you visualize long-term goals like retirement or purchasing a new home.\n\nSecurity is our highest priority, utilizing military-grade encryption and biometric authentication to keep your sensitive data safe. Experience the peace of mind that comes with having complete control over your financial future with FinanceWise.",
         "size": 28.3,
-        "reviews": 5600,
+        "reviews": "76K",
         "ratingAvg": 4.2,
-        "downloads": 250000,
+        "downloads": "25M",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 600
+                "count": 45
             },
             {
                 "name": "2 star",
-                "count": 400
+                "count": 38
             },
             {
                 "name": "3 star",
-                "count": 600
+                "count": 61
             },
             {
                 "name": "4 star",
-                "count": 1000
+                "count": 52
             },
             {
                 "name": "5 star",
-                "count": 3000
+                "count": 77
             }
         ]
     },
@@ -103,31 +103,31 @@
         "title": "SkyScan",
         "companyName": "AeroTech",
         "image": "https://picsum.photos/id/10/1000/600",
-        "description": "Hyper-local weather forecasts with real-time satellite radar.",
+        "description": "SkyScan provides hyper-local weather intelligence with unprecedented precision, powered by a global network of high-fidelity sensors. Whether you are planning a weekend hike or a morning commute, our data ensures you stay ahead of the elements.\n\nThe app features interactive high-definition radar maps that allow you to track precipitation, wind speed, and atmospheric pressure in real-time. Customizable layers let you focus on the specific meteorological data points that matter most to your activities.\n\nReceive critical severe weather alerts tailored to your exact GPS coordinates to keep you and your family safe. SkyScan is the most trusted companion for anyone whose lifestyle depends on accurate and timely weather information.",
         "size": 15.6,
-        "reviews": 3200,
+        "reviews": "123K",
         "ratingAvg": 4.7,
-        "downloads": 1000000,
+        "downloads": "32M",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 50
+                "count": 14
             },
             {
                 "name": "2 star",
-                "count": 100
+                "count": 22
             },
             {
                 "name": "3 star",
-                "count": 250
+                "count": 39
             },
             {
                 "name": "4 star",
-                "count": 800
+                "count": 81
             },
             {
                 "name": "5 star",
-                "count": 2000
+                "count": 94
             }
         ]
     },
@@ -136,52 +136,19 @@
         "title": "Nomad Maps",
         "companyName": "GeoNav",
         "image": "https://picsum.photos/id/13/1000/600",
-        "description": "Global offline navigation for travelers and mountain hikers.",
+        "description": "Nomad Maps is the essential tool for explorers and travelers who venture beyond the reach of standard cellular networks. Our detailed vector maps are fully downloadable, providing reliable navigation even in the most remote corners of the globe.\n\nDiscover hidden landmarks and local secrets with our curated database of points of interest, including hiking trails and scenic overlooks. The app uses advanced GPS optimization to ensure accurate positioning while preserving your device's battery life.\n\nPlan your custom routes with ease and sync them across all your devices for a seamless travel experience. With Nomad Maps in your pocket, you can confidently explore the world without ever worrying about a signal.",
         "size": 195.0,
-        "reviews": 4100,
+        "reviews": "12K",
         "ratingAvg": 4.4,
-        "downloads": 85000,
+        "downloads": "59M",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 100
+                "count": 28
             },
             {
                 "name": "2 star",
-                "count": 300
-            },
-            {
-                "name": "3 star",
-                "count": 700
-            },
-            {
-                "name": "4 star",
-                "count": 1000
-            },
-            {
-                "name": "5 star",
-                "count": 2000
-            }
-        ]
-    },
-    {
-        "id": 221834,
-        "title": "Culina Recipes",
-        "companyName": "ChefMaster",
-        "image": "https://picsum.photos/id/20/1000/600",
-        "description": "Personalized gourmet meal plans with step-by-step video guides.",
-        "size": 35.0,
-        "reviews": 1200,
-        "ratingAvg": 4.9,
-        "downloads": 50000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 10
-            },
-            {
-                "name": "2 star",
-                "count": 20
+                "count": 33
             },
             {
                 "name": "3 star",
@@ -189,209 +156,11 @@
             },
             {
                 "name": "4 star",
-                "count": 120
+                "count": 67
             },
             {
                 "name": "5 star",
-                "count": 1000
-            }
-        ]
-    },
-    {
-        "id": 739441,
-        "title": "CodeLab IDE",
-        "companyName": "DevTools",
-        "image": "https://picsum.photos/id/24/1000/600",
-        "description": "A full-featured mobile IDE supporting Python, JS, and C++.",
-        "size": 65.2,
-        "reviews": 9800,
-        "ratingAvg": 4.6,
-        "downloads": 300000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 200
-            },
-            {
-                "name": "2 star",
-                "count": 400
-            },
-            {
-                "name": "3 star",
-                "count": 1200
-            },
-            {
-                "name": "4 star",
-                "count": 3000
-            },
-            {
-                "name": "5 star",
-                "count": 5000
-            }
-        ]
-    },
-    {
-        "id": 110298,
-        "title": "NoteSphere",
-        "companyName": "CloudSync",
-        "image": "https://picsum.photos/id/26/1000/600",
-        "description": "Smart cross-device note taking with markdown support.",
-        "size": 22.1,
-        "reviews": 15000,
-        "ratingAvg": 4.3,
-        "downloads": 950000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 1000
-            },
-            {
-                "name": "2 star",
-                "count": 1500
-            },
-            {
-                "name": "3 star",
-                "count": 2500
-            },
-            {
-                "name": "4 star",
-                "count": 3000
-            },
-            {
-                "name": "5 star",
-                "count": 7000
-            }
-        ]
-    },
-    {
-        "id": 904327,
-        "title": "SoundWave",
-        "companyName": "AudioLab",
-        "image": "https://picsum.photos/id/29/1000/600",
-        "description": "Professional audio mixer and high-fidelity field recorder.",
-        "size": 48.9,
-        "reviews": 7600,
-        "ratingAvg": 4.7,
-        "downloads": 150000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 100
-            },
-            {
-                "name": "2 star",
-                "count": 200
-            },
-            {
-                "name": "3 star",
-                "count": 300
-            },
-            {
-                "name": "4 star",
-                "count": 2000
-            },
-            {
-                "name": "5 star",
-                "count": 5000
-            }
-        ]
-    },
-    {
-        "id": 662910,
-        "title": "TaskMaster",
-        "companyName": "FocusApps",
-        "image": "https://picsum.photos/id/36/1000/600",
-        "description": "AI-driven task scheduling and productivity analytics.",
-        "size": 18.0,
-        "reviews": 22000,
-        "ratingAvg": 4.5,
-        "downloads": 5000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 500
-            },
-            {
-                "name": "2 star",
-                "count": 1500
-            },
-            {
-                "name": "3 star",
-                "count": 5000
-            },
-            {
-                "name": "4 star",
-                "count": 5000
-            },
-            {
-                "name": "5 star",
-                "count": 10000
-            }
-        ]
-    },
-    {
-        "id": 410293,
-        "title": "PlantCare",
-        "companyName": "NatureDev",
-        "image": "https://picsum.photos/id/42/1000/600",
-        "description": "Identify indoor plants and receive smart watering reminders.",
-        "size": 31.4,
-        "reviews": 3200,
-        "ratingAvg": 4.8,
-        "downloads": 120000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 20
-            },
-            {
-                "name": "2 star",
-                "count": 30
-            },
-            {
-                "name": "3 star",
-                "count": 150
-            },
-            {
-                "name": "4 star",
-                "count": 1000
-            },
-            {
-                "name": "5 star",
-                "count": 2000
-            }
-        ]
-    },
-    {
-        "id": 819203,
-        "title": "YogaFlow",
-        "companyName": "ZenStudio",
-        "image": "https://picsum.photos/id/48/1000/600",
-        "description": "Daily guided yoga sessions for stress relief and flexibility.",
-        "size": 95.0,
-        "reviews": 11000,
-        "ratingAvg": 4.9,
-        "downloads": 750000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 50
-            },
-            {
-                "name": "2 star",
-                "count": 50
-            },
-            {
-                "name": "3 star",
-                "count": 900
-            },
-            {
-                "name": "4 star",
-                "count": 2000
-            },
-            {
-                "name": "5 star",
-                "count": 8000
+                "count": 82
             }
         ]
     },
@@ -400,394 +169,97 @@
         "title": "GameSync",
         "companyName": "PlayBase",
         "image": "https://picsum.photos/id/54/1000/600",
-        "description": "The ultimate social hub for mobile and console gamers.",
+        "description": "GameSync is the ultimate social hub designed specifically for the modern gaming enthusiast. It bridges the gap between different platforms, allowing you to connect with friends and teammates across console, PC, and mobile gaming ecosystems.\n\nStay updated with real-time news feeds, patch notes, and exclusive community content tailored to your favorite titles. Our intelligent matchmaking system helps you find the perfect squad members based on your specific skill level and play style.\n\nShare your greatest gaming moments directly with the community using our integrated clip capture and editing tools. Whether you are a competitive pro or a casual player, GameSync is your home for everything gaming culture.",
         "size": 55.6,
-        "reviews": 45000,
+        "reviews": "250K",
         "ratingAvg": 4.4,
-        "downloads": 10000000,
+        "downloads": "100M",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 5000
+                "count": 66
             },
             {
                 "name": "2 star",
-                "count": 5000
+                "count": 44
             },
             {
                 "name": "3 star",
-                "count": 10000
+                "count": 78
             },
             {
                 "name": "4 star",
-                "count": 5000
+                "count": 91
             },
             {
                 "name": "5 star",
-                "count": 20000
+                "count": 99
             }
         ]
     },
     {
-        "id": 310294,
-        "title": "MarketTrack",
-        "companyName": "TradeHub",
-        "image": "https://picsum.photos/id/60/1000/600",
-        "description": "Real-time global stock and cryptocurrency price tracking.",
-        "size": 12.8,
-        "reviews": 9300,
-        "ratingAvg": 4.1,
-        "downloads": 400000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 1000
-            },
-            {
-                "name": "2 star",
-                "count": 800
-            },
-            {
-                "name": "3 star",
-                "count": 1500
-            },
-            {
-                "name": "4 star",
-                "count": 2000
-            },
-            {
-                "name": "5 star",
-                "count": 4000
-            }
-        ]
-    },
-    {
-        "id": 772910,
-        "title": "AstroGaze",
-        "companyName": "SpaceView",
-        "image": "https://picsum.photos/id/75/1000/600",
-        "description": "Identify constellations and planets using augmented reality.",
-        "size": 140.0,
-        "reviews": 6100,
-        "ratingAvg": 4.7,
-        "downloads": 320000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 100
-            },
-            {
-                "name": "2 star",
-                "count": 200
-            },
-            {
-                "name": "3 star",
-                "count": 800
-            },
-            {
-                "name": "4 star",
-                "count": 1000
-            },
-            {
-                "name": "5 star",
-                "count": 4000
-            }
-        ]
-    },
-    {
-        "id": 192837,
-        "title": "PhotoSafe",
-        "companyName": "VaultIT",
-        "image": "https://picsum.photos/id/80/1000/600",
-        "description": "Secure encrypted cloud storage for your private media.",
-        "size": 25.4,
-        "reviews": 18000,
-        "ratingAvg": 4.6,
-        "downloads": 2000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 500
-            },
-            {
-                "name": "2 star",
-                "count": 1000
-            },
-            {
-                "name": "3 star",
-                "count": 2500
-            },
-            {
-                "name": "4 star",
-                "count": 4000
-            },
-            {
-                "name": "5 star",
-                "count": 10000
-            }
-        ]
-    },
-    {
-        "id": 662718,
-        "title": "MindPal",
-        "companyName": "PeaceMind",
-        "image": "https://picsum.photos/id/91/1000/600",
-        "description": "Daily guided meditation and sleep improvement sounds.",
-        "size": 42.0,
-        "reviews": 12500,
-        "ratingAvg": 4.9,
-        "downloads": 1000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 100
-            },
-            {
-                "name": "2 star",
-                "count": 100
-            },
-            {
-                "name": "3 star",
-                "count": 300
-            },
-            {
-                "name": "4 star",
-                "count": 2000
-            },
-            {
-                "name": "5 star",
-                "count": 10000
-            }
-        ]
-    },
-    {
-        "id": 339281,
-        "title": "BudgetPro",
-        "companyName": "WealthFlow",
-        "image": "https://picsum.photos/id/119/1000/600",
-        "description": "AI-powered expense tracking and personal budget planning.",
-        "size": 19.9,
-        "reviews": 5400,
-        "ratingAvg": 4.0,
-        "downloads": 150000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 800
-            },
-            {
-                "name": "2 star",
-                "count": 600
-            },
-            {
-                "name": "3 star",
-                "count": 1000
-            },
-            {
-                "name": "4 star",
-                "count": 1000
-            },
-            {
-                "name": "5 star",
-                "count": 2000
-            }
-        ]
-    },
-    {
-        "id": 554921,
-        "title": "RunTracker",
-        "companyName": "SprintLabs",
-        "image": "https://picsum.photos/id/146/1000/600",
-        "description": "GPS run tracking with social leaderboards and challenges.",
-        "size": 38.4,
-        "reviews": 14200,
-        "ratingAvg": 4.5,
-        "downloads": 850000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 200
-            },
-            {
-                "name": "2 star",
-                "count": 500
-            },
-            {
-                "name": "3 star",
-                "count": 2500
-            },
-            {
-                "name": "4 star",
-                "count": 4000
-            },
-            {
-                "name": "5 star",
-                "count": 7000
-            }
-        ]
-    },
-    {
-        "id": 882931,
-        "title": "HomeDesign",
-        "companyName": "Archiviz",
-        "image": "https://picsum.photos/id/160/1000/600",
-        "description": "Plan your home renovation with realistic 3D floor models.",
-        "size": 250.0,
-        "reviews": 3200,
+        "id": 110298,
+        "title": "NoteSphere",
+        "companyName": "CloudSync",
+        "image": "https://picsum.photos/id/26/1000/600",
+        "description": "NoteSphere is a powerful productivity suite that transforms how you capture and organize your thoughts across your digital life. It offers a distraction-free writing environment with full Markdown support and robust file attachments for professionals.\n\nOur smart tagging and nested folder systems allow you to categorize thousands of notes effortlessly, ensuring information is always easy to find. The app features lightning-fast cross-device synchronization, so your ideas are always with you when inspiration strikes.\n\nCollaborate with colleagues in shared workspaces where you can edit documents simultaneously and leave contextual comments. Experience a new level of clarity and efficiency in your daily workflow with the elegant interface of NoteSphere.",
+        "size": 22.1,
+        "reviews": "23K",
         "ratingAvg": 4.3,
-        "downloads": 100000,
+        "downloads": "43M",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 200
+                "count": 35
             },
             {
                 "name": "2 star",
-                "count": 300
+                "count": 48
             },
             {
                 "name": "3 star",
-                "count": 500
+                "count": 52
             },
             {
                 "name": "4 star",
-                "count": 700
+                "count": 71
             },
             {
                 "name": "5 star",
-                "count": 1500
+                "count": 84
             }
         ]
     },
     {
-        "id": 221039,
-        "title": "SkyCast",
-        "companyName": "MeteoGroup",
-        "image": "https://picsum.photos/id/180/1000/600",
-        "description": "Global weather imagery and specialized storm tracking.",
-        "size": 22.4,
-        "reviews": 8900,
-        "ratingAvg": 4.6,
-        "downloads": 500000,
+        "id": 662910,
+        "title": "TaskMaster",
+        "companyName": "FocusApps",
+        "image": "https://picsum.photos/id/36/1000/600",
+        "description": "TaskMaster leverages cutting-edge artificial intelligence to help you master your schedule and reclaim your valuable time. It automatically prioritizes your tasks based on urgency, importance, and your personal peak productivity hours throughout the day.\n\nIntegrate your existing calendars, email accounts, and project management tools into one unified view for total oversight. Detailed analytics provide insights into your work habits, helping you identify and eliminate common distractions that hinder your progress.\n\nSet ambitious long-term goals and track your journey through visual milestones and motivational rewards. TaskMaster isn't just a to-do list; it is a comprehensive system designed to help you achieve your most important objectives efficiently.",
+        "size": 18.0,
+        "reviews": "14K",
+        "ratingAvg": 4.5,
+        "downloads": "92M",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 150
+                "count": 21
             },
             {
                 "name": "2 star",
-                "count": 250
+                "count": 29
             },
             {
                 "name": "3 star",
-                "count": 500
+                "count": 47
             },
             {
                 "name": "4 star",
-                "count": 3000
+                "count": 83
             },
             {
                 "name": "5 star",
-                "count": 5000
-            }
-        ]
-    },
-    {
-        "id": 449201,
-        "title": "RecipeBox",
-        "companyName": "KitchenPal",
-        "image": "https://picsum.photos/id/225/1000/600",
-        "description": "Organize and share your digital family cookbook easily.",
-        "size": 18.7,
-        "reviews": 4500,
-        "ratingAvg": 4.8,
-        "downloads": 200000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 50
-            },
-            {
-                "name": "2 star",
-                "count": 50
-            },
-            {
-                "name": "3 star",
-                "count": 400
-            },
-            {
-                "name": "4 star",
-                "count": 1000
-            },
-            {
-                "name": "5 star",
-                "count": 3000
-            }
-        ]
-    },
-    {
-        "id": 992810,
-        "title": "LanguageLift",
-        "companyName": "SpeakEasy",
-        "image": "https://picsum.photos/id/237/1000/600",
-        "description": "Learn 30+ languages through native speaker conversations.",
-        "size": 75.0,
-        "reviews": 12000,
-        "ratingAvg": 4.7,
-        "downloads": 1500000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 300
-            },
-            {
-                "name": "2 star",
-                "count": 400
-            },
-            {
-                "name": "3 star",
-                "count": 1300
-            },
-            {
-                "name": "4 star",
-                "count": 3000
-            },
-            {
-                "name": "5 star",
-                "count": 7000
-            }
-        ]
-    },
-    {
-        "id": 331029,
-        "title": "VibeMusic",
-        "companyName": "SonicCloud",
-        "image": "https://picsum.photos/id/250/1000/600",
-        "description": "High-fidelity audio streaming with artist-led podcasts.",
-        "size": 44.2,
-        "reviews": 6500,
-        "ratingAvg": 4.4,
-        "downloads": 300000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 400
-            },
-            {
-                "name": "2 star",
-                "count": 300
-            },
-            {
-                "name": "3 star",
-                "count": 800
-            },
-            {
-                "name": "4 star",
-                "count": 2000
-            },
-            {
-                "name": "5 star",
-                "count": 3000
+                "count": 91
             }
         ]
     },
@@ -796,31 +268,31 @@
         "title": "PetLog",
         "companyName": "TailTech",
         "image": "https://picsum.photos/id/219/1000/600",
-        "description": "Track health, diet, and training progress for your pets.",
+        "description": "PetLog is the most comprehensive companion app for dedicated pet owners who want to ensure their animals live their healthiest lives. It provides a secure digital vault for all medical history, vaccination records, and veterinary appointment schedules.\n\nMonitor your pet's nutritional intake, exercise levels, and daily behaviors through an intuitive logging interface that helps you spot health trends early. The app offers personalized expert tips tailored to your pet's specific breed and age group.\n\nConnect with a local community of pet enthusiasts and professional service providers to find the best care available. With PetLog, managing every aspect of your pet's well-being is simple, organized, and effective for any animal lover.",
         "size": 20.5,
-        "reviews": 2100,
+        "reviews": "48K",
         "ratingAvg": 4.6,
-        "downloads": 50000,
+        "downloads": "99M",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 20
+                "count": 10
             },
             {
                 "name": "2 star",
-                "count": 30
+                "count": 19
             },
             {
                 "name": "3 star",
-                "count": 200
+                "count": 36
             },
             {
                 "name": "4 star",
-                "count": 500
+                "count": 58
             },
             {
                 "name": "5 star",
-                "count": 1350
+                "count": 100
             }
         ]
     }

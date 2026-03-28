@@ -1,5 +1,5 @@
 
-import { AppStoreButton, ButtonsContainer, GooglePlayButton } from "react-mobile-app-button";
+import { AppStoreButton, GooglePlayButton } from "react-mobile-app-button";
 
 import heroImg from "../../assets/hero.png"
 
@@ -20,7 +20,6 @@ const Hero = () => {
                             title="" height={20} width={14}></GooglePlayButton>
                         <AppStoreButton className={"custom-style"}
                             title="" height={20} width={14}></AppStoreButton>
-
 
                     </div>
                 </div>

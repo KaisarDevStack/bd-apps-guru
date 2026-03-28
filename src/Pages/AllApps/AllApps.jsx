@@ -1,13 +1,15 @@
 import { Link, useLoaderData } from "react-router";
-import React, { useState } from "react";
+import React, { use, useState } from "react";
 import Apps from "../Apps/Apps";
 import appErrorImg from '../../assets/App-Error.png'
 
 
-
 const AllApps = () => {
-    const AllApps = useLoaderData();
+
+
     const [searchingApps, setSearchingApps] = useState('')
+    const AllApps = useLoaderData();
+
 
     const remainingAppsAfterSearch = AllApps.filter(app => app.title.toLowerCase().includes(searchingApps.toLowerCase()) || app.title.toLowerCase().includes(searchingApps.toLowerCase()))
 
