@@ -6,14 +6,18 @@ import appErrorImg from '../../assets/App-Error.png'
 
 const AllApps = () => {
 
-
     const [searchingApps, setSearchingApps] = useState('')
+    const [installedApps, setInstalledApps] = useState([])
+
     const AllApps = useLoaderData();
 
+    const handleInstallApps = (id) => {
+        const currentlyInstalledApps = AllApps.find(app => app.id === id);
+        setInstalledApps([...installedApps, currentlyInstalledApps])
 
-    const remainingAppsAfterSearch = AllApps.filter(app => app.title.toLowerCase().includes(searchingApps.toLowerCase()) || app.title.toLowerCase().includes(searchingApps.toLowerCase()))
+    }
 
-
+    const remainingAppsAfterSearch = AllApps.filter(app => app.title.toLowerCase().includes(searchingApps.toLowerCase()) || app.title.toLowerCase().includes(searchingApps.toLowerCase()));
 
 
     return (
@@ -49,7 +53,10 @@ const AllApps = () => {
                     {(remainingAppsAfterSearch.length) ?
                         <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4  mx-auto py-6'>
                             {
-                                remainingAppsAfterSearch.map(app => <Link key={app.id} to={`/app/${app.id}`}><Apps app={app}></Apps ></Link>)
+                                remainingAppsAfterSearch.map(app => <Link handleInstallApps={handleInstallApps} key={app.id} to={`/app/${app.id}`}
+                                    setInstalledApps={setInstalledApps}
+
+                                ><Apps app={app}></Apps ></Link>)
                             }
                         </div> :
                         <div className="flex flex-col justify-center items-center gap-2 space-y-3">
